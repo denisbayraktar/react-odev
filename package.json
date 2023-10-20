@@ -1,0 +1,22 @@
+{
+  "name": "react-odev",
+  "version": "1.0.0",
+  "description": "patika.Dev icin hazirlanmis odev",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [
+    "react",
+    "patika.Dev"
+  ],
+  "author": "Denis Bayraktar",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "fetch": "^1.1.0",
+    "node-fetch": "^3.3.2",
+    "slugify": "^1.6.6"
+  }
+}
